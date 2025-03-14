@@ -1,0 +1,10 @@
+{
+    "name": "Monaspace fonts",
+    "id": "monaspace-fonts",
+    "version": "1.0.0",
+    "description": "A feature to add Monaspace fonts to your devcontainer",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
